@@ -1,5 +1,6 @@
 # DBMS
 ## EXP 01
+# CODE: https://github.com/bharani018/DBMS/blob/main/EXP%2001
 ![EX 1](https://user-images.githubusercontent.com/114207030/194500797-1fa29aee-f76c-4a1b-937f-293b998ace97.png)
 ![EX 1A](https://user-images.githubusercontent.com/114207030/194500821-93e4afb3-97e0-4406-a4a5-765ecbede987.png)
 ![EX 1B](https://user-images.githubusercontent.com/114207030/194500832-b7b8f190-7d8a-407b-91c7-10cb25d3238d.png)
