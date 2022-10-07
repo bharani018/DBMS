@@ -23,10 +23,15 @@
 
 ## EXP 05
 ![EX 05](https://user-images.githubusercontent.com/114207030/194500933-6ab66e45-1cdc-463a-b040-873a00d7eb3c.png)
+
 ![EX 5A](https://user-images.githubusercontent.com/114207030/194500940-a4ef17c4-0a7b-48d2-918a-c293c4b0fedb.png)
+
 ![EX 5B](https://user-images.githubusercontent.com/114207030/194500949-f16aa71b-82cb-4bb3-8a81-d690400e706e.png)
+
 ![EX 5C](https://user-images.githubusercontent.com/114207030/194500954-5602906e-8aaf-42d6-8afa-083a3b3c3d81.png)
+
 ![EX 5D](https://user-images.githubusercontent.com/114207030/194500966-34769303-c973-42d4-bf59-dc4e12c4f3db.png)
+
 ![EX 5E](https://user-images.githubusercontent.com/114207030/194500972-c4a9d964-a70b-4cb2-ae46-2f4cf9db7fe1.png)
 
 ## EXP 06
