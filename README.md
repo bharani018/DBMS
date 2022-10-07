@@ -20,14 +20,15 @@
 ![EX 03](https://user-images.githubusercontent.com/114207030/194500884-914ef416-d013-4403-85e1-168321f42bbf.png)
 
 ## EXP 04
-[QUERY LINK]
+[QUERY LINK](https://github.com/bharani018/DBMS/blob/main/EXP%2004)
+
 <img width="593" alt="EX 04" src="https://user-images.githubusercontent.com/114207030/194500888-6d88e668-92fb-4f88-9042-7be7a69ef197.png">
 
 ![EX 4A](https://user-images.githubusercontent.com/114207030/194500899-abf3292e-0913-4b41-b3ae-c51a91b52cc2.png)
 ![EX 4B](https://user-images.githubusercontent.com/114207030/194500914-7ff7936b-c26a-4011-8cdd-271c780567b7.png)
 
 ## EXP 05
-[QUERY LINK]
+[QUERY LINK]()
 ![EX 05](https://user-images.githubusercontent.com/114207030/194500933-6ab66e45-1cdc-463a-b040-873a00d7eb3c.png)
 
 ![EX 5A](https://user-images.githubusercontent.com/114207030/194500940-a4ef17c4-0a7b-48d2-918a-c293c4b0fedb.png)
@@ -41,28 +42,28 @@
 ![EX 5E](https://user-images.githubusercontent.com/114207030/194500972-c4a9d964-a70b-4cb2-ae46-2f4cf9db7fe1.png)
 
 ## EXP 06
-[QUERY LINK]
+[QUERY LINK]()
 ![EX 06](https://user-images.githubusercontent.com/114207030/194500977-5b0a9c60-0753-4455-a944-67efb892eb82.png)
 ![EX 6A](https://user-images.githubusercontent.com/114207030/194500982-74ff698e-bfe5-4690-bacb-05bc1b28d9cf.png)
 ![EX 6B](https://user-images.githubusercontent.com/114207030/194500984-f6ac03d4-76ba-4d85-b230-ac3338be268c.png)
 
 ## EXP 07
-[QUERY LINK]
+[QUERY LINK]()
 ![EX 07](https://user-images.githubusercontent.com/114207030/194500990-62bb96c4-2242-470e-857b-79b2c1428217.png)
 
 ## EXP 08
-[QUERY LINK]
+[QUERY LINK]()
 ![EX 08](https://user-images.githubusercontent.com/114207030/194501000-0a84e402-efcf-426e-a7b1-234fe418b276.jpg)
 
 ## EXP 09
-[QUERY LINK]
+[QUERY LINK]()
 ![EX 09](https://user-images.githubusercontent.com/114207030/194501005-f511abbd-0a3a-4d0b-8a27-ac61266f4e8f.jpg)
 
 ## EXP 10
-[QUERY LINK]
+[QUERY LINK]()
 ![EX 10](https://user-images.githubusercontent.com/114207030/194501015-668ecf24-1659-4b9d-a104-97df5f365c01.jpg)
 
 ## EXP 11
-[QUERY LINK]
+[QUERY LINK]()
 ![EX 11](https://user-images.githubusercontent.com/114207030/194501019-ef0187ed-8696-4ebb-a9b2-e41876c84573.jpg)
 
