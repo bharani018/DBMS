@@ -9,6 +9,7 @@
 
 ## EXP 02
 [QUERY LINK](https://github.com/bharani018/DBMS/blob/main/EXP%2002)
+
 ![EX 02](https://user-images.githubusercontent.com/114207030/194500863-6e3a6dbe-0c66-47eb-aba8-cf7d1e527e43.png)
 ![EX 2A](https://user-images.githubusercontent.com/114207030/194500866-d735f7eb-db56-4ec0-8334-07a7f9f3d4d1.png)
 ![EX 2B](https://user-images.githubusercontent.com/114207030/194500873-c9fcfd1a-2029-4e4c-8651-821b1a0b4c2b.png)
