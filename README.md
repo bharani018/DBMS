@@ -15,7 +15,7 @@
 ![EX 2C](https://user-images.githubusercontent.com/114207030/194500879-ea422654-107f-41e4-8a80-3bf246318c17.png)
 
 ## EXP 03
-[QUERY LINK]
+[QUERY LINK](https://github.com/bharani018/DBMS/blob/main/EXP%2003)
 ![EX 03](https://user-images.githubusercontent.com/114207030/194500884-914ef416-d013-4403-85e1-168321f42bbf.png)
 
 ## EXP 04
