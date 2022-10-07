@@ -6,7 +6,7 @@
 ![EX 1C](https://user-images.githubusercontent.com/114207030/194500839-7e1af42f-eeac-4cba-a0c9-2200eda278b5.png)
 ![EX 1D](https://user-images.githubusercontent.com/114207030/194500852-019b92cb-062f-40e9-ac61-f31279d5624e.png)
 
-##EXP 02
+## EXP 02
 ![EX 02](https://user-images.githubusercontent.com/114207030/194500863-6e3a6dbe-0c66-47eb-aba8-cf7d1e527e43.png)
 ![EX 2A](https://user-images.githubusercontent.com/114207030/194500866-d735f7eb-db56-4ec0-8334-07a7f9f3d4d1.png)
 ![EX 2B](https://user-images.githubusercontent.com/114207030/194500873-c9fcfd1a-2029-4e4c-8651-821b1a0b4c2b.png)
