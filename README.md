@@ -86,18 +86,21 @@
 [QUERY LINK](https://github.com/bharani018/DBMS/blob/main/EXP%2013)
 
 ![EX 13](https://user-images.githubusercontent.com/114207030/194510231-cecb4705-47d4-45d4-a81f-5cd9167383dc.jpg)
+
 ![EX 13A](https://user-images.githubusercontent.com/114207030/194510237-a0f6aca6-d8bc-4e66-96db-b187a5f341c1.jpg)
 
 ## EXP 14
 [QUERY LINK](https://github.com/bharani018/DBMS/blob/main/EXP%2014)
 
 ![EX 14](https://user-images.githubusercontent.com/114207030/194510242-5c53461c-c72b-4459-9414-b475641aee25.jpg)
+
 ![EX 14A](https://user-images.githubusercontent.com/114207030/194510246-d7e2bb6b-e813-48f8-8cde-49756a55ed27.jpg)
 
 ## EXP 15
 [QUERY LINK](https://github.com/bharani018/DBMS/blob/main/EXP%2015)
 
 ![EX 15](https://user-images.githubusercontent.com/114207030/194510250-0bd5874d-2385-48c7-859b-3c5f5b4b0c14.jpg)
+
 ![EX 15A](https://user-images.githubusercontent.com/114207030/194510255-a378fc69-5f47-492c-a24a-3a92a94e2152.jpg)
 
 ## EXP 16
@@ -109,6 +112,7 @@
 [QUERY LINK](https://github.com/bharani018/DBMS/blob/main/EXP%2017)
 
 ![EX 17](https://user-images.githubusercontent.com/114207030/194510271-ba28bcf1-3a94-481e-a874-730ec19106d7.png)
+
 ![EX 17A](https://user-images.githubusercontent.com/114207030/194510273-f2caeaa6-6b4a-4504-a088-080960b236cf.png)
 
 ## EXP 18
@@ -130,7 +134,9 @@
 [QUERY LINK](https://github.com/bharani018/DBMS/blob/main/EXP%2021)
 
 ![EX 21](https://user-images.githubusercontent.com/114207030/194510289-f29a700f-2847-427e-a9c9-e66413a70d4c.png)
+
 ![EX 21A](https://user-images.githubusercontent.com/114207030/194510296-9377de84-d9dd-4d59-b50c-1de51fe74c88.png)
+
 ![EX 21B](https://user-images.githubusercontent.com/114207030/194510300-55907d13-e6d8-4c01-95e6-99bfd9d9f833.png)
 
 ## EXP 22
@@ -152,7 +158,11 @@
 [QUERY LINK](https://github.com/bharani018/DBMS/blob/main/EXP%2025)
 
 ![EX 25](https://user-images.githubusercontent.com/114207030/194510313-9974c80c-bfef-4825-ac5f-84eab7263a14.png)
+
 ![EX 25A](https://user-images.githubusercontent.com/114207030/194510316-8d731187-0465-4e45-bb04-21cbf8ae5144.png)
+
 ![EX 25B](https://user-images.githubusercontent.com/114207030/194510320-ec755b62-5372-4d5a-8a41-8b1455e48518.png)
+
 ![EX 25C](https://user-images.githubusercontent.com/114207030/194510324-fa83c088-7b90-4d71-8e52-37eb9eec448b.png)
+
 ![EX 25D](https://user-images.githubusercontent.com/114207030/194510329-8e8b585a-97e2-44a6-87f7-5caeeadd39a4.png)
